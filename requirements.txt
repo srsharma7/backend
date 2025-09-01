@@ -1,3 +1,4 @@
 Django==5.1.7
 django-cors-headers==4.7.0
+pipreqs==0.4.13
 gunicorn==23.0.0
